@@ -49,7 +49,7 @@ const ECommerce = () => {
 				<div className="bg-white dark:text-gray-200 dark:bg-secondary-dark-bg h-96 rounded-xl mx-3 mb-5 p-8 pt-9 bg-hero-pattern bg-no-repeat bg-cover bg-center flex flex-col justify-around">
 					<div>
 						<p className="font-bold text-gray-400">Earnings</p>
-						<p className="text-2xl">$63,468.92</p>
+						<p className="text-2xl text-white">$63,468.92</p>
 					</div>
 					<div className="mt-16">
 						<Button
